@@ -27,7 +27,7 @@ Todo List
 `git clone git@github.com:abdallahalaa21/movies-website.git`
 
 ## 2-Install the packages
-you need to have to install nodeJs first then use npm
+you need to install nodeJs first then use npm or install yarn
 <br />
 or install yarn after that and use it
 <br />
