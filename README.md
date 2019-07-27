@@ -19,13 +19,15 @@ Todo List
 
 How to run the code
 
-##clone the repo
+## clone the repo
 `git clone git@github.com:abdallahalaa21/movies-website.git`
 
-##Install the packages
+## Install the packages
 you need to have to install nodeJs first then use npm
+<br />
 or install yarn after that and use it
+<br />
 `yarn` or `npm install`
 
-##Run the code
+## Run the code
 `yarn start` or `npm run start`
