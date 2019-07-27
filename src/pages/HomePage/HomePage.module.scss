@@ -1,0 +1,29 @@
+.posters {
+  display: grid;
+  padding: 20px 15px;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 15px;
+
+  @media only screen and (max-width: 1024px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  @media only screen and (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  @media only screen and (max-width: 480px) {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .poster {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 12px 0px rgba(0, 0, 0, 0.75);
+    transition: all 0.2s ease-in-out;
+    min-height: 360px;
+    object-fit: cover;
+
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+}
