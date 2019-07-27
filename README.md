@@ -2,9 +2,9 @@
 
 I just finished [leveluptuts](https://www.leveluptutorials.com/) course [react 16 for everyone](https://www.leveluptutorials.com/tutorials/react-16-for-everyone)
 
-So I decided to implement is the i learned react hooks from[Academind](https://www.youtube.com/watch?v=-MlNBTSg_Ww)
+So I decided to implement it then I learned react hooks from[Academind](https://www.youtube.com/watch?v=-MlNBTSg_Ww)
 
-then I edit the code with react hooks
+so I edit the code with react hooks
 
 I used [The movie database Api](https://developers.themoviedb.org/3/discover/movie-discover)
 
