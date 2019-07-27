@@ -8,6 +8,15 @@ then I edit the code with react hooks
 
 I used [The movie database Api](https://developers.themoviedb.org/3/discover/movie-discover)
 
+Todo List
+
+[] pagination
+[] Animation
+[] Search
+[] Dark Mode
+[] Add loading animation
+
+
 How to run the code
 
 ##clone the repo
