@@ -10,11 +10,15 @@ I used [The movie database Api](https://developers.themoviedb.org/3/discover/mov
 
 Todo List
 
-[] pagination
-[] Animation
-[] Search
-[] Dark Mode
-[] Add loading animation
+[ ] pagination
+<br />
+[ ] Animation
+<br />
+[ ] Search
+<br />
+[ ] Dark Mode
+<br />
+[ ] Add loading animation
 
 
 How to run the code
