@@ -10,10 +10,12 @@ const App = () => (
     <BrowserRouter>
       <Header />
       <Switch>
-        <main className={styles.main}>
-          <Route exact path="/" component={HomePage} />
-          <Route exact path="/:movieID" component={MovieInfo} />
-        </main>
+        <>
+          <main className={styles.main}>
+            <Route exact path="/" component={HomePage} />
+            <Route exact path="/:movieID" component={MovieInfo} />
+          </main>
+        </>
       </Switch>
     </BrowserRouter>
   </>
